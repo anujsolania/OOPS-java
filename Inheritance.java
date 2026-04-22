@@ -1,3 +1,11 @@
+// INHERITANCE - accessing properties from the parent
+// TYPES : 
+// - Single level
+// - Multi level
+// - Hierarchial 
+// - Hybrid
+
+
 class Shape {
     String color;
     // public void area() {
